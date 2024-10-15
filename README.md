@@ -1,22 +1,23 @@
-<h1>Basic Home Lab</h1>
+<h1>Windws Active Directory</h1>
 
 
 
 <h2>Description</h2>
-This project involves building a home lab in VirtualBox. It involves setting up a versatile virtual environment on my host machine to experiment with two operating systems, software, and networking configurations. This project includes installing multiple virtual machines (VMs) which are Ubuntu and Windows, it also involves configuring internal and external networks
-<br />
+This project involves setting up a centralized and secure directory service to manage and control user access, resources, and policies within a network. This project includes installing and configuring Windows Server, deploying Active Directory Domain Services (AD DS), and setting up various roles and features like Domain Controllers, Group Policy Objects (GPOs), and user accounts. By doing this, we establish a robust infrastructure that enhances network security, simplifies administrative tasks, and ensures seamless user authentication and authorization across the organization.
 
+<br />
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>VirtualBox Guest Additions</b> 
-- <b>Linux Distributions</b>
+- <b>PowerShell</b> 
+- <b>Python</b>
 - <b>Bash</b>
+- <b>Active Directory Users and Computers (ADUC)</b>
+- <b>Active Directory Administrative Center</b>
 
-<h2>Environments Used </h2>
+<h2>Environment Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Kali-Linux 10</b> 
 
 <h2>Program walk-through:</h2>
 
